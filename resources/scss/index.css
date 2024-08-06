@@ -1,0 +1,25 @@
+html, body {
+  background: rgb(103, 103, 103);
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.titlename {
+  font-size: 60px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 60px;
+  position: absolute;
+  padding: 20px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: black;
+}/*# sourceMappingURL=index.css.map */
